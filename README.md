@@ -1,5 +1,3 @@
-# lab-conda
+# IT is for writing the decription
+# machine Learning Project
 
-Command to run demo.py file:
-
-`python demo.py`
